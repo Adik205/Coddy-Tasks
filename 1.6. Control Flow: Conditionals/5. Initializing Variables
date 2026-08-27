@@ -1,0 +1,15 @@
+package main
+
+import "fmt"
+
+func main() {
+    // TODO: Initialize these variables with the required values
+    var name string    // Initialize with "John"
+    var age int       // Initialize with 25
+    var isStudent bool // Initialize with true
+    
+    // This code will print the variables
+    fmt.Println("Name:", name)
+    fmt.Println("Age:", age)
+    fmt.Println("Is Student:", isStudent)
+}
